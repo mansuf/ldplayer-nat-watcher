@@ -1,5 +1,5 @@
 # ldplayer-nat-watcher
-LDPlayer (Android Emulator) NAT process watcher, useful if the NAT process always crashing
+LDPlayer (Android Emulator) NAT process watcher, useful if the NAT process is keep crashing
 
 ## Requirements
 
