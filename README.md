@@ -13,12 +13,7 @@ Clone this repository using [git](https://git-scm.com/downloads) and start using
 ```sh
 git clone https://github.com/mansuf/ldplayer-nat-watcher.git
 cd ldplayer-nat-watcher
-
-# Windows
 py -3 nat_watcher.py
-
-# Linux / Mac OS
-python3 nat_watcher.py
 ```
 
 ## Screenshot
