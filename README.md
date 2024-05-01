@@ -20,3 +20,7 @@ py -3 nat_watcher.py
 # Linux / Mac OS
 python3 nat_watcher.py
 ```
+
+## Screenshot
+
+![image](https://github.com/mansuf/ldplayer-nat-watcher/assets/43638783/5a3200a8-b751-4a29-992c-b7c73d728436)
